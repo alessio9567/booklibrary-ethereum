@@ -1,8 +1,6 @@
 # BookLibrary_Limechain
 This is my first smart contract in Solidity developped as LimeAcademy Entry Task
 
-Using Remix develop a contract for a book library.
-
 - The administrator (owner) of the library should be able to add new books
    and the number of copies in the library.
 - Users should be able to see the available books and borrow them by their id.
