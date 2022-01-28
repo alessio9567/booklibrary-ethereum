@@ -1,4 +1,4 @@
-# BookLibrary_Limechain
+# BookLibrary@Limechain
 This is my first smart contract in Solidity developped as LimeAcademy Entry Task
 
 - The administrator (owner) of the library should be able to add new books
